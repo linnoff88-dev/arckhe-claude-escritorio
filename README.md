@@ -1,4 +1,4 @@
-﻿# ðŸ—‚ï¸ Claude EscritÃ³rio
+# ðŸ—‚ï¸ Claude EscritÃ³rio
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -8,7 +8,7 @@
 
 **ðŸ‡§ðŸ‡· [PortuguÃªs](README.md) Â· ðŸ‡ºðŸ‡¸ [English](README.en.md) Â· ðŸ‡ªðŸ‡¸ [EspaÃ±ol](README.es.md)**
 
-[![Seu escritÃ³rio no Claude](guia/assets/banner.jpg)](https://inematds.github.io/claude-escritorio/guia/)
+[![Seu escritÃ³rio no Claude](guia/assets/banner.jpg)](https://linnoff88-dev.github.io/
 
 ## O que Ã©
 
@@ -16,7 +16,7 @@ Um kit gratuito para usar o Claude como escritÃ³rio: escrever documentos, mont
 
 ## ðŸ“– Guia de uso
 
-Guia completo (landing + passo a passo): **https://inematds.github.io/claude-escritorio/guia/**
+Guia completo (landing + passo a passo): **https://linnoff88-dev.github.io/
 
 ## O processo, do inÃ­cio ao fim
 
@@ -36,7 +36,7 @@ Docs, Slides e Design: todos os planos, inclusive o grÃ¡tis. Dashboards: beta,
 
 ## LicenÃ§a
 
-ConteÃºdo aberto do INEMA.CLUB â€” use, copie e adapte. https://inema.club
+ConteÃºdo aberto do ARCKHÉ AI â€” use, copie e adapte. https://ARCKHÉ AI
 
 ---
 

@@ -1,4 +1,4 @@
-# Kit — your office in Claude
+﻿# Kit â€” your office in Claude
 
 Four steps, in order. Set it up once, use it every day.
 
@@ -11,4 +11,4 @@ Four steps, in order. Set it up once, use it every day.
 
 Before you start and before you share: `checklist-planos.md`.
 
-Full guide: https://inematds.github.io/claude-escritorio/guia/
+Full guide: https://linnoff88-dev.github.io/

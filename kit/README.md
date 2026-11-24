@@ -1,14 +1,14 @@
-# Kit — o seu escritório no Claude
+﻿# Kit â€” o seu escritÃ³rio no Claude
 
 Quatro passos, na ordem. Monta uma vez, usa todo dia.
 
 | Passo | O que fazer | Arquivo |
 |---|---|---|
-| 1. Contexto | Crie um Projeto no Claude e cole as instruções com quem você é | `contexto/instrucoes-do-projeto.md` (modelo), `contexto/exemplo/instrucoes-clinica.md` (exemplo), `prompts/01-entrevista-contexto.md` (o Claude te entrevista) |
+| 1. Contexto | Crie um Projeto no Claude e cole as instruÃ§Ãµes com quem vocÃª Ã© | `contexto/instrucoes-do-projeto.md` (modelo), `contexto/exemplo/instrucoes-clinica.md` (exemplo), `prompts/01-entrevista-contexto.md` (o Claude te entrevista) |
 | 2. Marca | Monte o seu design system a partir de um PDF, prints do site ou o logo | `prompts/02-design-system.md`, `design-system-modelo.md` |
-| 3. Primeiro modelo | Faça a peça que você mais repete | `prompts/03-slides-proposta.md`, `prompts/04-docs-colega.md`, `prompts/05-design-peca.md`, `prompts/06-dashboard-numeros.md`, `prompts/07-motion-explicativo.md` |
-| 4. Reusar | A peça aprovada vira modelo para as próximas | `prompts/08-reusar-modelo.md` |
+| 3. Primeiro modelo | FaÃ§a a peÃ§a que vocÃª mais repete | `prompts/03-slides-proposta.md`, `prompts/04-docs-colega.md`, `prompts/05-design-peca.md`, `prompts/06-dashboard-numeros.md`, `prompts/07-motion-explicativo.md` |
+| 4. Reusar | A peÃ§a aprovada vira modelo para as prÃ³ximas | `prompts/08-reusar-modelo.md` |
 
-Antes de começar e antes de compartilhar: `checklist-planos.md`.
+Antes de comeÃ§ar e antes de compartilhar: `checklist-planos.md`.
 
-Guia completo: https://inematds.github.io/claude-escritorio/guia/
+Guia completo: https://linnoff88-dev.github.io/
