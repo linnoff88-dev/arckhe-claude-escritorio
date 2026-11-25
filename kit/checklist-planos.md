@@ -5,7 +5,7 @@ Fonte: página oficial de Artifacts (claude.com/features/artifacts) e central de
 
 | Ferramenta | Grátis | Pro / Max / Ultra | Team | Enterprise |
 |---|---|---|---|---|
-| Docs | ✅ | ✅ | ✅ | ✅ (ligado por padrão desde 15/10/2026) |
+| Docs | ✅ | ✅ | ✅ | ✅ (ligado por padrêo desde 15/10/2026) |
 | Slides | ✅ | ✅ | ✅ | ✅ (idem) |
 | Design + design system | ✅ | ✅ | ✅ | ✅ (idem) |
 | Dashboards | ❌ | 🧪 beta | 🧪 beta | 🧪 beta, desligado até o dono ligar |
@@ -20,7 +20,7 @@ Fonte: página oficial de Artifacts (claude.com/features/artifacts) e central de
 ## Antes de compartilhar qualquer peça
 - [ ] Nenhum número, cliente ou depoimento inventado.
 - [ ] Em material para cliente, o logo é DO CLIENTE.
-- [ ] Painel: cliquei nos números e conferi a consulta e a data de atualização.
+- [ ] Painel: cliquei nos números e conferi a consulta e a data de atualizaçêo.
 - [ ] Compartilhei só com quem precisa (ver ou editar). Tudo começa privado.
 
 ## Exportar

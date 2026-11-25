@@ -16,7 +16,7 @@ Meu objetivo para [período] é: [ex.: 120 consultas por mês].
 1. Confirme qual é o número de resultado.
 2. Sugira de 2 a 4 números que empurram esse resultado e que eu consigo medir toda semana.
 3. Para cada um, diga de onde vem o dado (qual sistema ou planilha) e com que frequência atualizar.
-Não monte o painel ainda.
+Nêo monte o painel ainda.
 ```
 
 ## Depois: monte o painel
@@ -27,5 +27,5 @@ Em cada gráfico, diga numa frase o que mudou desde a semana passada.
 ```
 
 **Antes de compartilhar:** clique em cada número e confira a consulta (query) por trás; veja a data da
-última atualização em cada gráfico. A Anthropic não publicou taxa de acerto das consultas: confira sempre.
+última atualizaçêo em cada gráfico. A Anthropic nêo publicou taxa de acerto das consultas: confira sempre.
 Para análise funda, mande o painel para a sua ferramenta de BI.

@@ -10,23 +10,23 @@ o que estiver errado. Guarde esta folha preenchida no seu Projeto.
 | Fundo | #______ | fundo das páginas |
 | Texto | #______ | texto corrido |
 | Apoio | #______ | gráficos, ícones |
-| Alerta | #______ | só para erro/atenção |
+| Alerta | #______ | só para erro/atençêo |
 
 ## Tipografia
 - Título: ________ (peso ____)
 - Texto: ________ (tamanho mínimo ____)
 
 ## Logo
-- [ ] versão para fundo claro  - [ ] versão para fundo escuro  - [ ] espaço mínimo ao redor
+- [ ] versêo para fundo claro  - [ ] versêo para fundo escuro  - [ ] espaço mínimo ao redor
 
 ## Forma
-- Cantos: ____ px · Espaçamento base: ____ px · Sombra: sim / não
+- Cantos: ____ px · Espaçamento base: ____ px · Sombra: sim / nêo
 
 ## Imagem
-- Estilo de foto/ilustração: ________ (ex.: foto real, luz natural, sem texto na imagem)
+- Estilo de foto/ilustraçêo: ________ (ex.: foto real, luz natural, sem texto na imagem)
 - Ícones: ________ (ex.: traço fino, uma cor)
 
-## Faça / não faça (5 regras)
+## Faça / nêo faça (5 regras)
 1.
 2.
 3.

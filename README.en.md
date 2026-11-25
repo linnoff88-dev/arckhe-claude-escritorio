@@ -1,6 +1,6 @@
-# ðŸ—‚ï¸ Claude EscritÃ³rio
+# ðŸ—‚ï¸ Claude Escritê³rio
 
-**ðŸ‡§ðŸ‡· [PortuguÃªs](README.md) Â· ðŸ‡ºðŸ‡¸ [English](README.en.md) Â· ðŸ‡ªðŸ‡¸ [EspaÃ±ol](README.es.md)**
+**ðŸ‡§ðŸ‡· [Português](README.md) Â· ðŸ‡ºðŸ‡¸ [English](README.en.md) Â· ðŸ‡ªðŸ‡¸ [Espaê±ol](README.es.md)**
 
 [![Your office inside Claude](guia/assets/banner-en.jpg)](https://linnoff88-dev.github.io/
 
